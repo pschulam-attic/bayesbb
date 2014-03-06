@@ -1,0 +1,6 @@
+Package: bayesbb
+Title: Functions for using beta-binomial models.
+Description: 
+Version: 0.1
+Author: Peter Schulam <pschulam@gmail.com>
+Maintainer: Peter Schulam <pschulam@gmail.com>
